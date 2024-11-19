@@ -27,7 +27,7 @@
     color: blue;
     transition: text-decoration 0.1s, text-decoration-color 0.1s, color 0.1s;
     background-color: white;
-    border: blue;
+    border: solid blue 1px;
     text-decoration-line: none;
 }
 .important:hover{
