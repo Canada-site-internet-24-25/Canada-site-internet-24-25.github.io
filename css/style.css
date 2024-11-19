@@ -7,3 +7,11 @@
     font-size: large;
     font-weight: bold;
 }
+
+.main {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-right: 150px;
+  }
