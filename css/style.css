@@ -14,4 +14,8 @@
     align-items: center;
     flex-wrap: wrap;
     margin-right: 150px;
-  }
+}
+
+.bleu{
+    color: blue;
+}
