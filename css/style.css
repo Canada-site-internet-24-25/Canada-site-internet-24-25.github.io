@@ -25,10 +25,13 @@
     font-size: 20px;
     padding: 10px;
     color: blue;
-    transition: text-decoration 2s, text-decoration-color 2s, color 2s;
+    transition: text-decoration 0.1s, text-decoration-color 0.1s, color 0.1s;
+    background-color: white;
+    border: blue;
 }
 .important:hover{
     color: white;
     text-decoration-color: blue;
     text-decoration: underline;
+    background-color: blue;
 }
