@@ -28,10 +28,12 @@
     transition: text-decoration 0.1s, text-decoration-color 0.1s, color 0.1s;
     background-color: white;
     border: blue;
+    text-decoration-line: none;
 }
 .important:hover{
     color: white;
     text-decoration-color: blue;
     text-decoration: underline;
     background-color: blue;
+    text-decoration-line: none;
 }
