@@ -1,16 +1,15 @@
-.logo{
-    width: 7.5em ;
-    height: 7.5em ;
+.logo img{
+    width: 99px ;
+    height: 99px ;
 }
 
-.grass{
+.grass p{
     font-size: large;
     font-weight: bold;
 }
-
-.main {
+.main{
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
     margin-right: 150px;
@@ -30,10 +29,16 @@
     border: solid blue 1px;
     text-decoration-line: none;
 }
+
+
 .important:hover{
     color: white;
     text-decoration-color: blue;
     text-decoration: underline;
     background-color: blue;
     text-decoration-line: none;
+}
+
+.rouge{
+    color:red;
 }
