@@ -2,7 +2,6 @@
     width: 99px ;
     height: 99px ;
 }
-
 .grass p{
     font-size: large;
     font-weight: bold;
@@ -23,6 +22,7 @@
     text-decoration: none;
     font-size: 20px;
     padding: 10px;
+    margin: 10px;
     color: blue;
     transition: text-decoration 0.1s, text-decoration-color 0.1s, color 0.1s;
     background-color: white;
