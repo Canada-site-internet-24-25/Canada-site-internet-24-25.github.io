@@ -68,3 +68,9 @@ h2{
     flex-wrap: wrap;
     text-align: center; 
 }
+
+.body h1 {
+    padding-left: 37.5%;
+    padding-right: 36.5%;
+    width: 27%;
+}
