@@ -25,7 +25,7 @@ h2{
     margin-left: 50px;
     margin-top: 20px;
     width: 100%;
-    
+
 }
 
 .petit{
@@ -33,7 +33,7 @@ h2{
 }
 
 .bleu{
-    color: blue;
+    color: #002D74;
     font-size: 28px;
 }
 
@@ -61,4 +61,10 @@ h2{
 .rouge{
     color:red;
     font-size: 28px;
+}
+
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center; 
 }
