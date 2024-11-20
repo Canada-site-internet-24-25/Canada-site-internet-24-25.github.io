@@ -1,21 +1,38 @@
 .logo img{
-    width: 99px ;
-    height: 99px ;
+    width: 100px ;
+    height: 95px ;
 }
-.grass p{
-    font-size: large;
+.grass span{
     font-weight: bold;
+    font-family: lato-light,sans-serif;
+    overflow-wrap:break-word ;
+    text-align: start;
+}
+.lato-light {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+h2{
+    line-height: 0.9em;
+    width: 130px;
 }
 .main{
-    display: flex;
+    display:flex;
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
-    margin-right: 150px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.petit{
+    font-size: 18px;
 }
 
 .bleu{
     color: blue;
+    font-size: 28px;
 }
 
 .important{
@@ -41,4 +58,5 @@
 
 .rouge{
     color:red;
+    font-size: 28px;
 }
