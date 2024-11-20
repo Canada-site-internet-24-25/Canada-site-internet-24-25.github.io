@@ -38,17 +38,25 @@ h2{
 }
 
 .important{
+    display: flex;
     text-decoration: none;
-    font-size: 20px;
-    padding: 10px;
+    font-size: 14px;
     margin: 10px;
     color: blue;
     transition: text-decoration 0.1s, text-decoration-color 0.1s, color 0.1s;
     background-color: white;
     border: solid blue 1px;
-    text-decoration-line: none;
+    min-width: 167px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    height: 45px;
+    align-items: center;
+    justify-content: center;
 }
 
+.grand{
+    width: 295px;
+}
 
 .important:hover{
     color: white;
@@ -74,3 +82,4 @@ h2{
     padding-right: 36.5%;
     width: 27%;
 }
+
