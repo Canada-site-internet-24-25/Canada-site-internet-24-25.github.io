@@ -8,7 +8,7 @@
     overflow-wrap:break-word ;
     text-align: start;
 }
-.lato-light {
+.lato-light span{
     font-family: "Lato", sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -24,6 +24,8 @@ h2{
     flex-wrap: wrap;
     margin-left: 50px;
     margin-top: 20px;
+    width: 100%;
+    
 }
 
 .petit{
