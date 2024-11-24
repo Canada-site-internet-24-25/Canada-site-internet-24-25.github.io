@@ -77,6 +77,12 @@ h2{
     text-align: center;
 }
 
+.body table{
+    padding-left: 37.5%;
+    padding-right: 36.5%;
+    width: 27%;
+}
+
 .body h1 {
     padding-left: 37.5%;
     padding-right: 36.5%;
@@ -85,5 +91,5 @@ h2{
 
 .centre{
     margin-top: 30px;
-    margin-right: 366px;
+    margin-left: 366px;
 }
