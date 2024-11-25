@@ -22,10 +22,10 @@ h2{
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
-    margin-left: 50px;
-    margin-top: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
     width: 95%;
-    background-color: #ffccc0;
+    background-color: white;
 }
 
 .petit{
@@ -75,6 +75,7 @@ h2{
     display: flex;
     flex-wrap: wrap;
     text-align: center;
+    background-color:  #ffccc0;
 }
 
 .body table{
