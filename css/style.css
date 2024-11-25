@@ -76,6 +76,7 @@ h2{
     flex-wrap: wrap;
     text-align: center;
     background-color:  #ffccc0;
+    height: 100%;
 }
 
 .body table{
